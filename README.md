@@ -20,7 +20,7 @@
 * 자료구조
 
 #### 야금야금 토이 프로젝트
-[이진 파일 입출력 기반 메모장 파일](https://github.com/chocokart2/this_is_csharp_ch18_example1, "C# 파일 입출력 연습")
+[메모장 프로그램](https://github.com/chocokart2/this_is_csharp_ch18_example1, "C# 파일 입출력 연습")
 #### 그 외
 * 게임 기획도 관심이 있습니다
 
