@@ -25,6 +25,10 @@
 #### 그 외
 * 게임 기획도 관심이 있습니다
 
+
+
+## 기타
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chocokart2)](https://solved.ac/chocokart2)
 <!--
 **chocokart2/chocokart2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
