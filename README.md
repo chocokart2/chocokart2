@@ -28,7 +28,7 @@
 
 
 ## 기타
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chocokart2)](https://solved.ac/chocokart2)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chocokart2)](https://solved.ac/chocokart2/)
 [![Solved.ac Profile](https://mazandi.herokuapp.com/api?handle=chocokart2&theme=warm)](https://solved.ac/chocokart2)
 <!--
 **chocokart2/chocokart2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
