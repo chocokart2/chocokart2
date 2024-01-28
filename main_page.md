@@ -7,7 +7,7 @@
 * () Resume(KR) / 이력서(국문)
 
 ### If you are a visitor...
-* (여기에 완성된 프로그램 삽입)
+* (여기에 완성된 프로그램/게임 삽입)
 
 ### If you are chocokart2...
 * 내가 즐겨듣는 음악 리스트
