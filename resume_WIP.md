@@ -1,4 +1,4 @@
-main page
+[main page](main_page.md)
 # Resume
 ## chocokart2
 mail for business : sandwichsayanything@gmail.com
