@@ -1,4 +1,4 @@
-[main page](main_page.md)
+[If you are not looking for a resume, click here.](main_page.md)
 # Resume
 ## chocokart2
 mail for business : sandwichsayanything@gmail.com
