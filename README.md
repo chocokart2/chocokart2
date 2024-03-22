@@ -5,9 +5,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchocokart2&count_bg=%239038AD&title_bg=%23470F5A&icon=csharp.svg&icon_color=%23F2C8FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 작업물 목록
-### 끝난 일
+### 끝난 일 / 서비스 가능
+* [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main/README.md)
 ### 진행 중
-* 2403001 MineSweeper - 지뢰찾기
 * 202201001 Systems - 탑뷰 전략
 * 202207001 Shotgun - 1인칭 FPS
 ### 계획 중
