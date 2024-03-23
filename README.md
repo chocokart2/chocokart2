@@ -4,24 +4,35 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchocokart2&count_bg=%239038AD&title_bg=%23470F5A&icon=csharp.svg&icon_color=%23F2C8FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 작업물 목록
-### 끝난 일 / 서비스 가능
-* [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main/README.md)
-### 진행 중
-* 202201001 Systems - 탑뷰 전략
-* 202207001 Shotgun - 1인칭 FPS
-### 계획 중
-## 능력치 상태
-#### 사용하는 언어
-* C#  
-* C++  
-* Python  
-#### 그 외 도구
-* Unity
-* GitHub
+
+## Skill
+#### Programming Language
+|Language|Projects|description|
+|---|---|---|
+|C#| [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main/README.md) | |
+|C++| | |
+|Python| | |
+#### Others
+|Field|Projects|description|
+|---|---|---|
+|Unity| [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main/README.md) | |
+
 #### 공부 중인 분야
 * C#
 * 자료구조
+
+##### Problem Solving
+###### Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chocokart2)](https://solved.ac/chocokart2/)
+[![Solved.ac Profile](https://mazandi.herokuapp.com/api?handle=chocokart2&theme=warm)](https://solved.ac/chocokart2)
+## My Works
+
+### Finished
+* [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main/README.md)
+### In progress
+* 202201001 Systems - 탑뷰 전략
+* 202207001 Shotgun - 1인칭 FPS
+### Planning
 
 #### 야금야금 토이 프로젝트
 * [메모장 프로그램](https://github.com/chocokart2/this_is_csharp_ch18_example1 "C# 파일 입출력 연습")
@@ -33,9 +44,7 @@
 
 ## 기타
 
-#### Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chocokart2)](https://solved.ac/chocokart2/)
-[![Solved.ac Profile](https://mazandi.herokuapp.com/api?handle=chocokart2&theme=warm)](https://solved.ac/chocokart2)
+
 <!--
 **chocokart2/chocokart2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
