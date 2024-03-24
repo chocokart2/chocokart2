@@ -16,8 +16,8 @@
 |Field|Projects|description|
 |---|---|---|
 |Unity| [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main/README.md) | |
-|Algorithm| [Baekjoon](https://github.com/chocokart2/Baekjoon) | |
-|Data Structure| [Baekjoon](https://github.com/chocokart2/Baekjoon) | |
+|Algorithm| [Baekjoon](https://github.com/chocokart2/Baekjoon) | Sorting(Merge Sort, Heap Sort) / Graph Search Algorithm(DFS, BFS) / Prefix Sum |
+|Data Structure| [Baekjoon](https://github.com/chocokart2/Baekjoon) | Queue / Stack / Graph / Heap(one of Priority Queue) |
 
 ##### Problem Solving
 ###### Solved.ac
