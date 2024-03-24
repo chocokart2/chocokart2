@@ -9,7 +9,8 @@
 #### Programming Language
 |Language|Projects|description|
 |---|---|---|
-|C#| [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main/README.md) | |
+|C#| [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main) | |
+|C#| [20230301 - DiCoBot](https://github.com/chocokart2/no20230301_DiCoBot/tree/main) | - This is a program for implementing a Discord bot using the Discord.net library.<br>-Technologies used: File input/output, basic asynchronous function control, command response through string parsing |
 |C++| | |
 |Python| | |
 #### Others
