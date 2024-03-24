@@ -16,10 +16,8 @@
 |Field|Projects|description|
 |---|---|---|
 |Unity| [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main/README.md) | |
-
-#### 공부 중인 분야
-* C#
-* 자료구조
+|algorithm| [Baekjoon](https://github.com/chocokart2/Baekjoon) | |
+|Data Structure| [Baekjoon](https://github.com/chocokart2/Baekjoon) | |
 
 ##### Problem Solving
 ###### Solved.ac
