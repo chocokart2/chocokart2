@@ -37,7 +37,7 @@
 * [메모장 프로그램](https://github.com/chocokart2/this_is_csharp_ch18_example1 "C# 파일 입출력 연습")
 * [오늘할일기록 프로그램](https://github.com/chocokart2/no20230901DoItNow_CPlusPlus "C++ 연습용")
 ### ETC
-* Intrested in Game Design
+* Interested in Game Design
 
 <!--
 **chocokart2/chocokart2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
