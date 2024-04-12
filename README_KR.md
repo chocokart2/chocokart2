@@ -8,7 +8,7 @@
 
 ## 주요 역량
 #### 프로그래밍 언어
-|프로그램 언어|프로젝트|설명|
+|기술스택|프로젝트|설명|
 |---|---|---|
 |C#| [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main) | - It is a simple minesweeper game.<br>- For the first time, we proceeded with architecture design, and as a result, we were able to reduce the time consumed during production and the incidence of bugs.<br>- Technology used: Mouse input processing using Physics.RayCast() |
 |C#| [20230301 - DiCoBot](https://github.com/chocokart2/no20230301_DiCoBot/tree/main) | - This is a program for implementing a Discord bot using the Discord.net library.<br>- Technologies used: File input/output, Beginner-level asynchronous function, command response through string parsing |
