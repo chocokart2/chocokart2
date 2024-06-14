@@ -32,6 +32,8 @@
 ###### Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chocokart2)](https://solved.ac/chocokart2/)
 [![Solved.ac Profile](https://mazandi.herokuapp.com/api?handle=chocokart2&theme=warm)](https://solved.ac/chocokart2)
+[![Solved.ac Profile](https://ac-arena.vercel.app/v1/chocokart2)](https://solved.ac/chocokart2)
+
 ## My Works
 
 ### Finished
