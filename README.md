@@ -18,12 +18,16 @@
 |---|---|---|
 |C#| [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main) | - It is a simple minesweeper game.<br>- For the first time, we proceeded with architecture design, and as a result, we were able to reduce the time consumed during production and the incidence of bugs.<br>- Technology used: Mouse input processing using Physics.RayCast() |
 |C#| [20230301 - DiCoBot](https://github.com/chocokart2/no20230301_DiCoBot/tree/main) | - This is a program for implementing a Discord bot using the Discord.net library.<br>- Technologies used: File input/output, Beginner-level asynchronous function, command response through string parsing |
+|C#| [Simya-Restaurant](https://github.com/yujini1121/Simya-Restaurant) | |
+|Python| [AI-NPC](https://github.com/yujini1121/AI-NPC) | |
 |C++| [study_3rd_graphic_OpenGL](https://github.com/chocokart2/study_3rd_graphic_OpenGL) | |
 |Python| | |
 #### Others
 |Field|Projects|description|
 |---|---|---|
 |Unity| [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main/README.md) | |
+|Unity| [Simya-Restaurant](https://github.com/yujini1121/Simya-Restaurant) | |
+|Unity| [AI-NPC](https://github.com/yujini1121/AI-NPC) | |
 |Algorithm| [Baekjoon](https://github.com/chocokart2/Baekjoon) | Sorting(Merge Sort, Heap Sort) / Graph Search Algorithm(DFS, BFS) / Prefix Sum |
 |Data Structure| [Baekjoon](https://github.com/chocokart2/Baekjoon) | Queue / Stack / Graph / Heap(one of Priority Queue) |
 |OpenGL| [study_3rd_graphic_OpenGL](https://github.com/chocokart2/study_3rd_graphic_OpenGL) | |
