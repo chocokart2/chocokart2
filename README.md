@@ -1,12 +1,10 @@
 # #Post_02:걸어온 길이 의미 있게
 게임 만드는걸 좋아하는 chocokart2입니다.
 * 🇰🇷 [한국어](README_KR.md)
-
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchocokart2&count_bg=%239038AD&title_bg=%23470F5A&icon=csharp.svg&icon_color=%23F2C8FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 [![Hits](https://hits.sh/github.com/chocokart2.svg?view=today-total&style=flat-square&label=visits&color=3399ff&labelColor=102e4d&logo=unity)](https://hits.sh/github.com/chocokart2/)
-
 ## Outline
 * My Skill
   * Programming Language
@@ -17,24 +15,24 @@
 
 ## Skill
 #### Programming Language
-| Language | Projects                                                                                              | description                                                                                                                                                                                                                                                                    |
-| -------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| C#       | [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main) | - It is a simple minesweeper game.<br>- For the first time, we proceeded with architecture design, and as a result, we were able to reduce the time consumed during production and the incidence of bugs.<br>- Technology used: Mouse input processing using Physics.RayCast() |
-| C#       | [20230301 - DiCoBot](https://github.com/chocokart2/no20230301_DiCoBot/tree/main)                      | - This is a program for implementing a Discord bot using the Discord.net library.<br>- Technologies used: File input/output, Beginner-level asynchronous function, command response through string parsing                                                                     |
-| C#       | [Simya-Restaurant](https://github.com/yujini1121/Simya-Restaurant)                                    | - Designing a class structure using static classes                                                                                                                                                                                                                             |
-| C#       | [CapstoneDesign_2025_Project_B](https://github.com/chocokart2/CapstoneDesign_2025_Project_B)          |                                                                                                                                                                                                                                                                                |
-| Python   | [AI-NPC](https://github.com/yujini1121/AI-NPC)                                                        |                                                                                                                                                                                                                                                                                |
-| C++      | [study_3rd_graphic_OpenGL](https://github.com/chocokart2/study_3rd_graphic_OpenGL)                    |                                                                                                                                                                                                                                                                                |
-| Python   |                                                                                                       |                                                                                                                                                                                                                                                                                |
+| Language   | Projects                                                                                              | description                                                                                                                                                                                                                                                                    |
+| ---------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| C#         | [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main) | - It is a simple minesweeper game.<br>- For the first time, we proceeded with architecture design, and as a result, we were able to reduce the time consumed during production and the incidence of bugs.<br>- Technology used: Mouse input processing using Physics.RayCast() |
+| C#         | [20230301 - DiCoBot](https://github.com/chocokart2/no20230301_DiCoBot/tree/main)                      | - This is a program for implementing a Discord bot using the Discord.net library.<br>- Technologies used: File input/output, Beginner-level asynchronous function, command response through string parsing                                                                     |
+| C#         | [Newbies_Simya-Restaurant](https://github.com/chocokart2/Newbies_Simya-Restaurant)                    | - Designing a class structure using static classes                                                                                                                                                                                                                             |
+| C#         | [CapstoneDesign_2025_Project_B](https://github.com/chocokart2/CapstoneDesign_2025_Project_B)          |                                                                                                                                                                                                                                                                                |
+| Python, C# | [TeamProject_AI-NPC](https://github.com/chocokart2/TeamProject_AI-NPC)                                |                                                                                                                                                                                                                                                                                |
+| C++        | [study_3rd_graphic_OpenGL](https://github.com/chocokart2/study_3rd_graphic_OpenGL)                    |                                                                                                                                                                                                                                                                                |
 #### Others
-|Field|Projects|description|
-|---|---|---|
-|Unity| [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main/README.md) | |
-|Unity| [Simya-Restaurant](https://github.com/yujini1121/Simya-Restaurant) | |
-|Unity| [AI-NPC](https://github.com/yujini1121/AI-NPC) | |
-|Algorithm| [Baekjoon](https://github.com/chocokart2/Baekjoon) | Sorting(Merge Sort, Heap Sort) / Graph Search Algorithm(DFS, BFS) / Prefix Sum |
-|Data Structure| [Baekjoon](https://github.com/chocokart2/Baekjoon) | Queue / Stack / Graph / Heap(one of Priority Queue) |
-|OpenGL| [study_3rd_graphic_OpenGL](https://github.com/chocokart2/study_3rd_graphic_OpenGL) | |
+| Field            | Projects                                                                                                        | description                                                                    |
+| ---------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Unity            | [2403001 MineSweeper - 지뢰찾기](https://github.com/chocokart2/GameProject_2403001_MineSweeper/blob/main/README.md) |                                                                                |
+| Unity            | [Newbies_Simya-Restaurant](https://github.com/chocokart2/Newbies_Simya-Restaurant)                              |                                                                                |
+| Unity, Langchain | [TeamProject_AI-NPC](https://github.com/chocokart2/TeamProject_AI-NPC)                                          |                                                                                |
+| Algorithm        | [Baekjoon](https://github.com/chocokart2/Baekjoon)                                                              | Sorting(Merge Sort, Heap Sort) / Graph Search Algorithm(DFS, BFS) / Prefix Sum |
+| Data Structure   | [Baekjoon](https://github.com/chocokart2/Baekjoon)                                                              | Queue / Stack / Graph / Heap(one of Priority Queue)                            |
+| OpenGL           | [study_3rd_graphic_OpenGL](https://github.com/chocokart2/study_3rd_graphic_OpenGL)                              |                                                                                |
+
 
 ##### Problem Solving
 ###### Solved.ac
